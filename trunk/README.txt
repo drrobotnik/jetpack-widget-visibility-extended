@@ -12,7 +12,7 @@ This plugin is a proposed enhancement of the Jetpack Widget Visibility module. I
 
 == Description ==
 
-The Jetpack visiblity module is appended to the bottom of all widgets (including 3rd parties). This plugin adds actions/filters so that plugin developers can add additional filters based on thier needs. See "Jetpack Widget Visibility - Query Args" and "Jetpack Widget Visiblity - WPML Languages" as two examples of what you can do with this enhancement.
+The Jetpack visibility module is appended to the bottom of all widgets (including 3rd parties). This plugin adds actions/filters so that plugin developers can add additional filters based on thier needs. See "Jetpack Widget Visibility - Query Args" and "Jetpack Widget visibility - WPML Languages" as two examples of what you can do with this enhancement.
 
 == Installation ==
 
@@ -49,7 +49,7 @@ This plugin itself does not add any user facing features. It adds the capability
 
 = What do I need to do to add options or fields within my theme/plugin =
 
-I recommend downloading the "Jetpack Widget Visibility - Query Args" and "Jetpack Widget Visiblity - WPML Languages" companion plugins in order to mimic how they apply additional options/fields.
+I recommend downloading the "Jetpack Widget Visibility - Query Args" and "Jetpack Widget Visibility - WPML Languages" companion plugins in order to mimic how they apply additional options/fields.
 
 == Screenshots ==
 
